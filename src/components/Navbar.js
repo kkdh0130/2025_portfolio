@@ -19,7 +19,6 @@ const Navbar = () => {
       <nav className="container max-w-4xl mx-auto px-6 py-3 flex justify-between items-center">
         <div className="flex items-center space-x-4">
           <h1 className="text-2xl font-bold">김다현</h1>
-          <p className="text-sm text-gray-500 dark:text-gray-300">프론트엔드 개발자</p>
         </div>
         <div className="hidden md:flex items-center gap-x-6">
           <a href="#home" className="hover:text-blue-500 transition-colors">
